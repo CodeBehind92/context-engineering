@@ -670,7 +670,7 @@ Al referenciar este paradigma, por favor cite:
 ```
 Ontiveros Oviedo, I. A. (2025). The Context Engineering Paradigm: 
 A Methodology for Professional AI-Driven Software Development. 
-Retrieved from https://contextengineering.dev
+Retrieved from https://contextparadigm.dev
 ```
 
 **BibTeX:**
@@ -680,7 +680,7 @@ Retrieved from https://contextengineering.dev
   title = {The Context Engineering Paradigm},
   year = {2025},
   month = {October},
-  url = {https://contextengineering.dev},
+  url = {https://contextparadigm.dev},
   note = {Licensed under CC BY 4.0}
 }
 ```
@@ -689,7 +689,7 @@ Retrieved from https://contextengineering.dev
 ```
 I. A. Ontiveros Oviedo, "The Context Engineering Paradigm: 
 A Methodology for Professional AI-Driven Software Development," 
-Oct. 2025. [Online]. Available: https://contextengineering.dev
+Oct. 2025. [Online]. Available: https://contextparadigm.dev
 ```
 
 ### 11.4 Requisito de Atribución
@@ -746,7 +746,7 @@ Bienvenidos a The Context Engineering Paradigm.
 ## Apéndice A: Recursos y Referencias
 
 ### Recursos Oficiales
-- **Website:** https://contextengineering.dev
+- **Website:** https://contextparadigm.dev
 - **GitHub:** https://github.com/codebehind92/context-engineering-paradigm
 - **Archetipos:** https://github.com/codebehind92 (ver repositorios)
 - **Discussions:** https://github.com/codebehind92/context-engineering-paradigm/discussions
@@ -817,4 +817,4 @@ Gracias a la comunidad de desarrollo con IA por validar la necesidad de mejores 
 
 Para preguntas, contribuciones o discusiones:  
 GitHub: [@codebehind92](https://github.com/codebehind92)  
-Sitio web: https://contextengineering.dev
+Sitio web: https://contextparadigm.dev
