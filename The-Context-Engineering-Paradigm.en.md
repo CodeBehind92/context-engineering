@@ -362,10 +362,10 @@ The **Contextual Operating System (COS)** represents the natural evolution of th
                │
     ┌──────────┼──────────┐
     │          │          │
-┌───▼───┐  ┌──▼───┐  ┌──▼────┐
-│Backend│◄─┤Front │◄─┤Mobile │
+┌───▼───┐  ┌───▼───┐  ┌───▼───┐
+│Backend│◄─┤Front  │◄─┤Mobile │
 │Context│  │Context│  │Context│
-└───────┘  └──────┘  └───────┘
+└───────┘  └───────┘  └───────┘
      ▲         ▲         ▲
      └─────────┴─────────┘
       Auto-synchronization
