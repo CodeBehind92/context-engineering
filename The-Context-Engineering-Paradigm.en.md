@@ -351,9 +351,9 @@ The **Contextual Operating System (COS)** represents the natural evolution of th
 │   (Architecture, principles, rules)      │
 └──────────────┬───────────────────────────┘
                │
-        ┌──────▼──────┐
+        ┌──────▼───────┐
         │  COS Engine  │
-        │  ────────────│
+        │──────────────│
         │  • Parser    │  ← Reads contexts
         │  • Derivator │  ← Generates subcontexts
         │  • Validator │  ← Validates coherence
